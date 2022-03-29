@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "1",
+    "firstName": "Mansur",
+    "lastName": "Isakov",
+    "email": "m.isakov@gmail.com",
+    "role": "admin",
+    "active": true,
+    "photo": "admin.jpg",
+    "password": "$2a$12$Q0grHjH9PXc6SxivC8m12.2mZJ9BbKcgFpwSG4Y1ZEII8HJVzWeyS"
+  },
+  {
+    "_id": "2",
+    "firstName": "Mukhammad",
+    "lastName": "Khusanov",
+    "email": "m.khusanov@gmail.com",
+    "role": "admin",
+    "active": true,
+    "photo": "admin.jpg",
+    "password": "###"
+  },
+  {
+    "_id": "3",
+    "firstName": "Contributor",
+    "lastName": "Tester",
+    "email": "contributor@gmail.com",
+    "role": "contributor",
+    "active": true,
+    "photo": "contributor.jpg",
+    "password": "###"
+  },
+  {
+    "_id": "4",
+    "firstName": "User",
+    "lastName": "Test",
+    "email": "user-test@gmail.com",
+    "role": "user",
+    "active": true,
+    "photo": "user.jpg",
+    "password": "###"
+  }
+]

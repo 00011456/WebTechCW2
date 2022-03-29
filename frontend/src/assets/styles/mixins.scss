@@ -1,0 +1,65 @@
+// MEDIA QUERY MANAGER
+
+/*
+  0 - 600 phone
+  600 - 900 table portrait mode
+  900 - 1200 tablet landscape
+  1200 - 1800 is where our normal styles apply
+  1800 + bid desktop 
+
+  $breakpoint argument choices;
+  -mini-phone
+  -phone
+  -big-phone
+  -tab-mini
+  -tab-port
+  -tab-land
+  -big-desktop
+  
+  1em = 16px
+*/
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == mini-phone {
+    @media only screen and (max-width: 21.875em) {
+      //350 px
+      @content;
+    }
+  }
+  @if $breakpoint == phone {
+    @media only screen and (max-width: 29.375em) {
+      //470 px
+      @content;
+    }
+  }
+  @if $breakpoint == big-phone {
+    @media only screen and (max-width: 37.5em) {
+      //600 px
+      @content;
+    }
+  }
+  @if $breakpoint == tab-mini {
+    @media only screen and (max-width: 40.625em) {
+      //650 px
+      @content;
+    }
+  }
+  @if $breakpoint == tab-port {
+    @media only screen and (max-width: 51.25em) {
+      //820 px
+      @content;
+    }
+  }
+  @if $breakpoint == tab-land {
+    @media only screen and (max-width: 75em) {
+      //1200 px
+      @content;
+    }
+  }
+  @if $breakpoint == big-desktop {
+    @media only screen and (min-width: 112.5em) {
+      //1800 px
+      @content;
+    }
+  }
+}

@@ -1,0 +1,131 @@
+// Home Cards Animation //
+@keyframes scaleUp {
+  0% {
+    opacity: 0;
+    transform: scale(0.7);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// Bar Chart Animation //
+@keyframes moveRight-1 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 90%;
+  }
+}
+@keyframes moveRight-2 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 80%;
+  }
+}
+@keyframes moveRight-3 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 70%;
+  }
+}
+@keyframes moveRight-4 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 60%;
+  }
+}
+@keyframes moveRight-5 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 50%;
+  }
+}
+@keyframes moveRight-6 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 40%;
+  }
+}
+@keyframes moveRight-7 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 30%;
+  }
+}
+@keyframes moveRight-8 {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    width: 20%;
+  }
+}
+
+// Pie Chart Animation //
+@keyframes rotate {
+  0% {
+    opacity: 0;
+    transform: rotate(360deg);
+  }
+  100% {
+    opacity: 1;
+    transform: rotate(0);
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    right: 50%;
+    bottom: 50%;
+  }
+
+  100% {
+    opacity: 1;
+    right: 50%;
+    bottom: 50%;
+  }
+}
+
+@keyframes moveDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0rem);
+  }
+}

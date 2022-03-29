@@ -1,0 +1,759 @@
+[
+  {
+    "universityFullName": "Amity University in Tashkent",
+    "universityShortName": "AMITY",
+    "ratingsAverage": 3.5,
+    "courses": [
+      {
+        "courseName": "Science in Information Technology",
+        "description": "The B.Sc. (Information Technology) course at AMITY University in Tashkent offers students in-depth knowledge in building information databases, networks, software development & testing and programming. With state-of-the-art labs and infrastructure, the program also covers computational, cognitive and social subjects, including the study of the social impact of information technologies.",
+        "duration": 3
+      },
+      {
+        "courseName": "Technology (Computer Science & Engineering)",
+        "description": "The B. Tech (Computer Science and Engineering) programme at AMITY University in Tashkent is designed to provide the industry with engineers with a high level of in-depth knowledge and expertise in a wide range of relevant topics. Using the high-tech lab, our students will also develop related skills in research and an understanding of the process of technological innovation, opening up a gateway for successful careers with global IT firms or for higher studies.",
+        "duration": 3
+      },
+      {
+        "courseName": "Arts (Honours) Economics",
+        "description": "The B.A (Hons.) Economics is designed to give students a thorough understanding of Economic concepts added with analytical methods of Economics. It develops analytical skills and prepares our graduates for employment and further study in economics. The course is structured to ensure that thorough coverage of both quantitative and theoretical aspects of Economics is made. Furthermore, the programme aims to expose students to the corporate and the professional world through a summer internship programme.",
+        "duration": 3
+      },
+      {
+        "courseName": "Arts (Tourism Administration)",
+        "description": "B.A. (Tourism Administration) program of Tourism is initiated keeping in view the growing importance of the Tourism & Industry in the country. The ever increasing growth of Tourism industry & its allied sectors is creating a demand for Tourism professionals to serve in the Industry. The Tourism education system has witnessed rapid progress in recent years to become one of largest in the world. The industry provides culture, heritage, sports, health and other leisure & business tourism. The growth of this sector is expected to rise with a fast pace in the coming years.",
+        "duration": 3
+      },
+      {
+        "courseName": "Business Administration",
+        "description": "Bachelor of Business Administration Program not only facilitate improvement of leadership qualities but also enable students to develop skills that help them to turn out as excellent future managers. With specialization in different areas, Management courses prepare students to face the constantly advancing corporate world and impart effective people-management skills. A well-designed management training course suitably develops a talented workforce that can be expected to be efficient future leaders and successful managers who are able to tackle complex situations and relationships with clients in any organization.",
+        "duration": 3
+      }
+    ],
+    "summary": "AMITY University in Tashkent was established by the Decree of the President of the Republic of Uzbekistan dated January 7, 2019 No PP-4097 and the academic year started from 2019. AMITY University in Tashkent offers career focused programs at the Foundation, Undergraduate and Postgraduate levels in diverse disciplines of higher education, including Information Technology, Economics, Management and Tourism. AMITY University in Tashkent is committed to bringing world class education with commendable research and innovation in alignment with the strategic vision of Uzbekistan. AMITY’s highly practical and industry focused curriculum has been conceptualized in alignment with the region’s talent-needs, thus opening up a world of opportunities for students. It’s focus on industry led education has resulted in a curriculum that is developed in close partnership with industry. Another hallmark of AMITY is its endeavor to create modern hi-tech learning environments, through facilities and infrastructure that is globally benchmarked and state-of-the-art. More than 750 students are currently enrolled in AMITY University in Tashkent. Graduates are awarded a standard diploma of AMITY University (Republic of India), which is recognized as a document of higher education in the Republic of Uzbekistan.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Interview",
+      "Internal Exam"
+    ],
+    "scolarship": "No scholarship",
+    "tuitionFee": 3300,
+    "establishedIn": "2019-09-01T09:00:00.000Z",
+    "images": ["amity-1.jpg", "amity-2.jpg", "amity-3.jpg"],
+    "imageCover": "amity-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.33254166171503, 69.26445765767255],
+      "address": "Building 70, Labzak Street, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "British Management University in Tashkent",
+    "universityShortName": "BMU",
+    "ratingsAverage": 3,
+    "courses": [
+      {
+        "courseName": "Accounting and Finance",
+        "description": "This Bachelor of Science (BSC) degree programme is aligned with the competencies and requirements of the Association of Certified Chartered Accountants, U.K. (the ACCA). Its main goal is to produce qualified young professionals skilled at applying the International Financial Reporting Standards (the IFRS) as well best global standards in management accounting and audit. Graduates will be able to work not only to top accounting and auditing firms (e.g., PWC, Ernst & Young, Deloitte, KMPG) but also in various accounting and finance role anywhere globally.",
+        "duration": 3
+      },
+      {
+        "courseName": "Banking and Finance",
+        "description": "This Bachelor of Science (BSC) degree programme prepares students for a career in international finance and banking and finance by educating young professionals in the areas of financial intermediation and financial markets and instruments to be able to adapt to constantly evolving industry standards, and to solve new challenging problems of the future finance industry. The programme is also aligned with the competencies and requirements of the Chartered Financial Analyst (the CFA) Institute, USA and is aimed at equipping young professionals with globally accepted knowledge and locally applicable skills to start their successful careers. Graduates will be qualified to start a career in an international or a local bank, an insurance company, or an investment firm. Other examples include jobs in management accountancy, civil service, and various finance-related roles in different industries.",
+        "duration": 3
+      },
+      {
+        "courseName": "Logistics and Supply Chain Management",
+        "description": "This Bachelor of Business Administration (BBA) degree programme with a concentration offers students expertise in various aspects of international supply chain management including international logistics, transportation, and trade, and enables them to acquire a number of techniques commonly used by industry practitioners. It aims to equip students with the knowledge and skills necessary to become effective logistics and supply chain managers and supervisors in successful multinational and local companies.",
+        "duration": 3
+      },
+      {
+        "courseName": "Project Management",
+        "description": "This Bachelor of Business Administration (BBA) degree programme with a concentration is aligned with the competencies and requirements of the Project Management Institute, USA (the PMI). It provides the knowledge and skills that can be applied to a wide range of project management-related job roles in multiple sectors such as: IT, engineering, logistics, construction, event management, hospitality and many others.",
+        "duration": 3
+      },
+      {
+        "courseName": "E-Business and Digital Marketing",
+        "description": "This Bachelor of Business Administration (BBA) degree programme with a concentration focuses on various aspects of the digital marketing environment, including marketing analytics, search engine optimisation, social media marketing, etc. It teaches students the latest marketing practices and cutting-edge techniques used by successful organisations competing in today’s increasingly complex digital and global markets.",
+        "duration": 3
+      },
+      {
+        "courseName": "Entrepreneurship and Innovation Management (in Tourism and Hospitality)",
+        "description": "This Bachelor of Business Administration (BBA) degree programme with a concentration equips students with creative knowledge and skills used in tourism and hospitality management that will allow them to adapt and be successful in the increasingly diverse and dynamic business environment. It is designed to meet the long-term needs of Uzbekistan’s rapidly growing tourism and hospitality industry.",
+        "duration": 3
+      }
+    ],
+    "summary": "In line with Uzbekistan’s commitment to improving higher education, the British Management University in Tashkent (hereinafter, the University) aspires to become a top regional higher education institution that nurtures future business leaders and prepares highly qualified professionals for key industries. To achieve this important goal, we provide quality British education by following best global education practices, by leveraging our corporate connections with industry leaders, and by giving our students professional knowledge and practical skills in business management, finance, accounting and related disciplines. Our Mission is to provide quality British education by following best global education practices, leveraging our corporate connections with industry leaders, and by giving our students professional knowledge and practical skills in business management, finance, accounting and related disciplines.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Interview"
+    ],
+    "scolarship": "University grants covering all (100%) tuition fees will be awarded to outstanding applicants from low-income families (must provide relevant documents).",
+    "tuitionFee": 3700,
+    "establishedIn": "2019-09-01T09:00:00.000Z",
+    "images": ["bmu-1.jpg", "bmu-2.jpg", "bmu-3.jpg"],
+    "imageCover": "bmu-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.32342995170168, 69.24390075522938],
+      "address": "22а street Sebzar, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Bucheon University in Tashkent",
+    "universityShortName": "BUT",
+    "ratingsAverage": 2.9,
+    "courses": [
+      {
+        "courseName": "Department of architecture",
+        "description": "The Department of Architecture was launched in 2019 y. The department trains specialists in the area of modern architecture and urban development. Students have the opportunity to develop their practical skills in architectural designs, planning process, construction and building maintenance. After 3 years in Tashkent students obtain Associate Bachelor Degree of Bucheon University (Rep. of Korea",
+        "duration": "3 + 1"
+      },
+      {
+        "courseName": "Department of Korean language and business administration",
+        "description": "Main academic objectives in the department of Business administration Korean are to prepare specialists with strong theoretical knowledge and developed practical skills, and to help students develop high adaptability skills. The academic curriculum is focused on deep analysis of the globalization process, computerization of our society, worldwide management practices, as well as relevant skills and their development. Another advantage of this department is the opportunity to learn two foreign languages: English and Korean. Apart from the academic aspect, within the department students are able to develop team working skills, creativity, sense of responsibility and integrity - skills that are essential to become a specialist.",
+        "duration": "2 + 2"
+      }
+    ],
+    "summary": "The university was initiated by the Ministry of preschool education and Ministry of higher education of Republic of Uzbekistan and Bucheon University (Republic of Korea). Bucheon University in Tashkent (later BUT) is neither private nor state. The organizational form of the university is a joint entity. The university was established by the Decree of president of the Republic of Uzbekistan # 3821 dd. July 2, 2018 and its founding members are the ministry of higher and secondary specialized education, ministry of preschool education of the Republic of Uzbekistan and Bucheon University (Republic of Korea). BUT is the first overseas campus of Bucheon University (Republic of Korea, later BCU)). Main university was founded in 1958.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR) or Korean (Topic)",
+      "Interview",
+      "Internal Exam"
+    ],
+    "scolarship": "No scholarship",
+    "tuitionFee": 3300,
+    "establishedIn": "2018-07-02T09:00:00.000Z",
+    "images": ["but-1.jpg", "but-2.jpg", "but-3.jpg"],
+    "imageCover": "but-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.270258601233536, 69.19523715337367],
+      "address": "Chilanzar dist. st.Katartal 2, 38А, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Collegium Humanum Warsaw University of Management",
+    "universityShortName": "CHWUM",
+    "ratingsAverage": 2.5,
+    "courses": [
+      {
+        "courseName": "Mobile & Digital Marketing",
+        "description": "The Mobile & Digital Marketing specialty introduces the student to current trends in Internet marketing and provides knowledge about digital media. During their studies, students form competencies that meet the expectations of the modern digitalized world. A Mobile & Digital Marketing graduate will gain a huge range of new technologies and skills sector competencies to hold positions in every modern organization, as a result of the phenomenon of digital transformation that every firm or organization is going through. Special practices will be conducted by experts in the field of email marketing and internet business.",
+        "duration": 3
+      },
+      {
+        "courseName": "Logistics",
+        "description": "The specialty prepares for the planning, implementation and control of the uninterrupted, cost-effective flow of raw materials, materials, finished products and proper communication with the client. Logistics specialists handle warehouse management, procurement, production planning, and transportation and communications.",
+        "duration": 3
+      },
+      {
+        "courseName": "Business and International Marketing",
+        "description": "Specialization in International Business and Marketing is aimed at meeting and understanding clients from different countries and cultures. Graduates of this specialty will acquire the necessary knowledge to become managers in the international business arena. After completing the specialization, graduates can work in a variety of environmental conditions in the international market. The specialty prepares for obtaining knowledge in the field of international business management, strategic management, business organization, customer relationship management, as well as marketing and sales.",
+        "duration": 3
+      },
+      {
+        "courseName": "Brand management (PR, Branding, advertising and social media)",
+        "description": "This major prepares students for professional careers related to launching, building and coordinating a brand, as well as strategizing and planning products or services. It covers both business practice and marketing principles, providing students with a wide range of skills and knowledge to help them become marketing professionals.",
+        "duration": 3
+      },
+      {
+        "courseName": "Marketing and sales management",
+        "description": "The training in the specialty is focused on knowledge in the field of consumer market behavior, marketing services and trade, the specifics of online advertising, planning advertising campaigns and promotions, market analysis in various aspects, marketing strategies and competition, as well as psychosocial aspects of advertising. Graduates acquire knowledge that allows them to perform work related to the marketing activities of an enterprise, institution and organization. Students acquire knowledge and skills useful in business communication, in the field of sales management, can take action to solve management and marketing problems, as well as in human resource management.",
+        "duration": 3
+      },
+      {
+        "courseName": "Data Management and Big Data Analytics",
+        "description": "The specialty prepares you to acquire competencies not only in the fields of social sciences, communications and human relations, but also in the field of IT, data analysis and coding. Students in this specialty will gain theoretical knowledge in the field of statistical analysis and machine learning algorithms. They will be embedded in the tools and technologies that are the pillars of Big Data knowledge. Students will also explore programming libraries and research collaboration tools.",
+        "duration": 3
+      },
+      {
+        "courseName": "Management and marketing in the field of tourism, hotel business and catering",
+        "description": "The specialty introduces current trends in the field of organization and management in tourism, hotel and gastronomic enterprises operating in a highly competitive environment. Graduates have practical skills in business plan development, projects, advertising campaigns, marketing research, public relations, effective negotiation techniques, and will also learn strategic management in the field of finance and quality of services.",
+        "duration": 3
+      },
+      {
+        "courseName": "IT management and cybersecurity",
+        "description": "The specialty prepares for work in an innovative economy based on knowledge in the field of security management in cyberspace. After training in the specialty, you will learn about IT process management standards, the principles of IT risk management and cybersecurity, as well as the legal aspects related to the functioning of IT. The graduate will be able to assess the degree of ensuring personal security and physical infrastructure of data transmission, as well as manage the processing of security and cybersecurity incidents. The implementation of the training process for the specialty will be supported by third-party organizations related to cybersecurity.",
+        "duration": 3
+      },
+      {
+        "courseName": "Small and Medium Enterprise Management",
+        "description": "As part of the specialty management of small and medium-sized enterprises (SMEs), students will study the specifics of small and medium-sized businesses and acquire the knowledge and skills necessary to achieve economic success. Will prepare you to gain knowledge of managing your own organization, promotion, marketing communications and the functioning of small businesses in the European Union. In addition to the basic skills inherent in management science, students will gain knowledge in the field of creative problem solving. They will also learn how to manage the value of an enterprise and will be able to apply modern methods of financing investments and evaluate their effectiveness.",
+        "duration": 3
+      },
+      {
+        "courseName": "Digital Design Project Management",
+        "description": "You will gain knowledge in the design and implementation of information systems, the development of digital applications and tracks, as well as in the field of quality and security of IT management. You will receive a collection of best practices in the field of IT process management, including: planning and organization, acquisition and implementation, delivery and support, monitoring and evaluation, as well as selected trends in the development of computer technology and new forms of editing and presentation of electronic images. You will be able to manage IT projects. Practical subjects during study, such as: developing digital applications and tracks, will provide you with the highly specialized skills expected in the IT sector job market. You will learn the principles of developing applications and works of a useful, educational, informational nature.",
+        "duration": 3
+      },
+      {
+        "courseName": "Financial management and accounting",
+        "description": "This specialty is practical, so all science should lead to a professionalism that can be used in accounting, control, financial management and consulting. She develops competencies to undertake professional work or run her own business.",
+        "duration": 3
+      },
+      {
+        "courseName": "Human Resource Management (HR)",
+        "description": "The specialty Human Resource Management prepares you to be a leader in an organization and effectively carry out business processes: to attract employees, motivate them to work, manage them, discover and develop their talents. Students of the specialty will gain practical knowledge and skills to manage an integrated team of employees focused on personal growth and company success.",
+        "duration": 3
+      }
+    ],
+    "summary": "Warsaw University of Management Collegium Humanum is a private European university headquartered in Warsaw. The university has branches in Poznan, Rzeszow, Prague, Frydek-Mistek, Bratislava and Andijan. The university conducts training in bachelor's, master's programs, as well as BBA, MBA, DBA, LL.M, MPH. The Warsaw University of Management Collegium Humanum is an international educational institution that significantly differs from competitors with a unique educational program that was created in accordance with the needs of creative and exceptionally talented young people. Creativity and innovation are the main characteristics of the programs implemented at the university, which were created by professionals with the participation of renowned and respected practitioners, as well as people from the world of science. In addition, a separate merit of the university is the creation of its own authoring platform that combines the academic experience of leading prestigious universities with the needs of motivated and ambitious youth from all over the world.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Interview"
+    ],
+    "scolarship": "No scholarship",
+    "tuitionFee": 2950,
+    "establishedIn": "2021-04-14T09:00:00.000Z",
+    "images": ["chu-1.jpg", "chu-2.jpg", "chu-3.jpg"],
+    "imageCover": "chu-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [40.761958753404215, 72.3571767687019],
+      "address": "Andijan, Uzbekistan"
+    }
+  },
+  {
+    "universityFullName": "Inha University in Tashkent",
+    "universityShortName": "IUT",
+    "ratingsAverage": 4.5,
+    "courses": [
+      {
+        "courseName": "SOCIE: Bachelor of Science",
+        "description": "School of Computer and Information Engineering. Note that students who are admitted to the SOCIE will be assigned to one of two departments (CSE and ICE) by the regulation of IUT after completing the first year of the education program at IUT.",
+        "duration": "4"
+      },
+      {
+        "courseName": "SBL: Bachelor of Business Administration",
+        "description": "School of Business and Logistics. Note that students who apply to SBL MUST choose between Business Administration and Logistics. Students CANNOT apply for both majors at the same time.",
+        "duration": "4"
+      }
+    ],
+    "summary": "Inha University in Tashkent (IUT) founded in 2014. The university created in cooperation with the INHA University in the Republic of Korea. Currently, more than 1,500 students are studying in our university. Inha University is among the 'TOP 10' of the most significant universities in South Korea, and its technical departments are in fourth place in the ranking of 'Best Universities'. The slogan of the University combines three main areas of the ideology: 'Creativity, hard work, service to society.'",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Internal Exam"
+    ],
+    "scolarship": "15 best students",
+    "tuitionFee": 3000,
+    "establishedIn": "2014-10-04T09:00:00.000Z",
+    "images": ["iut-1.jpg", "iut-2.jpg", "iut-3.jpg"],
+    "imageCover": "iut-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.338710253820025, 69.33454072639364],
+      "address": "9 Ziyolilar St, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Lomonosov Moscow State University in Tashkent",
+    "universityShortName": "LMSU",
+    "ratingsAverage": 3,
+    "courses": [
+      {
+        "courseName": "Applied Mathematics and Informatics",
+        "description": "Admission to the first year of the Branch of the Moscow State University named after M.V. Lomonosov Moscow State University in Tashkent is carried out on a competitive basis for training under the bachelor's program in the areas of 'Applied Mathematics and Informatics', 'Psychology', 'Advertising and Public Relations' and 'Philology: Russian Language and Literature'. The term of study is 4 years.",
+        "duration": 4
+      },
+      {
+        "courseName": "Psychology",
+        "description": "Admission to the first year of the Branch of the Moscow State University named after M.V. Lomonosov Moscow State University in Tashkent is carried out on a competitive basis for training under the bachelor's program in the areas of 'Applied Mathematics and Informatics', 'Psychology', 'Advertising and Public Relations' and 'Philology: Russian Language and Literature'. The term of study is 4 years.",
+        "duration": 4
+      },
+      {
+        "courseName": "Advertising and public relations",
+        "description": "Admission to the first year of the Branch of the Moscow State University named after M.V. Lomonosov Moscow State University in Tashkent is carried out on a competitive basis for training under the bachelor's program in the areas of 'Applied Mathematics and Informatics', 'Psychology', 'Advertising and Public Relations' and 'Philology: Russian Language and Literature'. The term of study is 4 years.",
+        "duration": 4
+      },
+      {
+        "courseName": "Philology ",
+        "description": "Admission to the first year of the Branch of the Moscow State University named after M.V. Lomonosov Moscow State University in Tashkent is carried out on a competitive basis for training under the bachelor's program in the areas of 'Applied Mathematics and Informatics', 'Psychology', 'Advertising and Public Relations' and 'Philology: Russian Language and Literature'. The term of study is 4 years.",
+        "duration": 4
+      }
+    ],
+    "summary": "The Tashkent branch of Moscow State University was established in 2006, this educational institution today is the leading center for training specialists in the field of mathematics, computer science and psychology for the needs of Uzbekistan. The educational process is organized in accordance with the standards adopted at Moscow State University, and this ensures the training of highly qualified specialists.",
+    "admission": ["Interview", "Internal Exam"],
+    "scolarship": "No scholarship",
+    "tuitionFee": 2500,
+    "establishedIn": "2006-02-24T09:00:00.000Z",
+    "images": ["msu-1.jpg", "msu-2.jpg", "msu-3.jpg"],
+    "imageCover": "msu-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.30104600619993, 69.28140087613566],
+      "address": "22 Amir Temur Avenue, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Management Development Institute of Singapore in Tashkent",
+    "universityShortName": "MDIS",
+    "ratingsAverage": 3.2,
+    "courses": [
+      {
+        "courseName": "Business and Management",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "Business and Marketing Management",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "Industrial Management",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "Business and Economics",
+        "description": "This Business Economics degree offers the opportunity to combine a core programme of study in economics with a wide selection of optional modules in business, finance and management. This Business Economics degree programme includes a core microeconomics and macroeconomics component, and a specialism focusing on the economic context of business decision making. Students will develop an awareness of applications of economics in areas including business management, finance and public policy. A degree in Business Economics will appeal to anyone who wishes to study economic issues at local, national and international levels, while developing practical skills in business, finance and management which will subsequently be attractive to employers in both the private and public sectors.",
+        "duration": 3
+      },
+      {
+        "courseName": "Computer Information Systems for Business",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "INTERNATIONAL BUSINESS",
+        "description": "Employers are increasingly looking for work-ready graduates with an in-depth understanding of the global economy and the skills to operate in an international business environment. Global organisations need experts who have a good understanding of business in their own local markets and can develop effective international business strategies. Our Business with International Management programme equips you with a solid grounding in international business in a global context.",
+        "duration": 3
+      },
+      {
+        "courseName": "PROJECT MANAGEMENT",
+        "description": "This broad-based degree gives you a comprehensive understanding of business concepts and models with specialist knowledge of project management. You study business organisation, management, leadership and enterprise combined with specialist modules in project management. This programme will be particularly of interest to those seeking to pursue careers in business with a particular emphasis on project leadership, development and management.",
+        "duration": 3
+      },
+      {
+        "courseName": "Accounting and Finance",
+        "description": "The BA (Hons) Accounting and Finance degree is our newest degree and offers exemptions towards the Chartered Association of Certified accountants (ACCA) professional membership.  Successful completion of this degree will allow 9 exemptions from the ACCA.",
+        "duration": 3
+      },
+      {
+        "courseName": "Business and Financial Management",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "Banking and Finance",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "Finance, Investment and Risk",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "International Business in Tourism & Hospitality ",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "Tourism and Hospitality Management & Leadership ",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      },
+      {
+        "courseName": "Fashion and Design",
+        "description": "Students will study 120 credits worth of modules every year, through a combination of modules.",
+        "duration": 3
+      }
+    ],
+    "summary": "Management Development Institute of Singapore in Tashkent was established in 2007 by Uzbekistan Banking Association (UBA) and the Management Development Institute of Singapore (MDIS). Its permanent partners providing educational programmes - the Bangor University (UK) and Sunderland University (UK) are known as leading British universities placed in the Top 1000 World University Rankings. In addition, in the 2020 MDIS Tashkent signed a partnership agreement with a new UK partner - Teesside University. It is important to emphasize the special role of MDIS Tashkent Governing Council, the UBA in particular, which made a fundamental contribution to the establishment and development of the Institute by assembling a team of experts from different areas of management and science and providing support at all stages of its evolution.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Interview"
+    ],
+    "scolarship": "No scholarship",
+    "tuitionFee": 3000,
+    "establishedIn": "2007-09-05T09:00:00.000Z",
+    "images": ["mdis-1.jpg", "mdis-2.jpg", "mdis-3.jpg"],
+    "imageCover": "mdis-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.269661861831835, 69.20320532639134],
+      "address": "28 Bunyodkor Avenue, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Moscow State Institute of International Relations in Tashkent",
+    "universityShortName": "MSIIR",
+    "ratingsAverage": 3,
+    "courses": [
+      {
+        "courseName": "International private and civil law",
+        "description": "The courses studied were developed by leading representatives of the law schools of MGIMO. Participation of practicing lawyers in the implementation of the program, representing international and Russian law firms. In-depth study of private law disciplines, including private international law and international commercial arbitration.",
+        "duration": 4
+      },
+      {
+        "courseName": "Analysis and modeling of socio-economic processes",
+        "description": "The information society has learned to collect and store vast amounts of data, but the availability of information is not in itself a valuable product. Making decisions requires the ability to analyze data and, on the basis of this analysis, model the further development of events. The demand for such specialists - analysts in the labor market is extremely high. The graduate of the program will be able to solve complex interdisciplinary problems in the context of the digital transformation of the economy , linking various subject areas (economics, business, society, politics, law) using modern technologies",
+        "duration": 4
+      }
+    ],
+    "summary": "The idea of ​​creating a branch of MGIMO in Tashkent was first announced back in early 2018 during a working meeting between MGIMO Rector A.V. Torkunov and UWED Rector A.A. Abduvakhitov, and in the fall of 2018, steps were taken towards formalizing the agreements. On October 19, 2018, as part of the visit of Russian President Vladimir Putin to Tashkent, an intergovernmental Agreement on the establishment and operation of branches of educational institutions of higher education of the Russian Federation in the Republic of Uzbekistan  and an  Agreement between UWED and MGIMO on the establishment of a MGIMO branch in the Republic of Uzbekistan were signed. The resolution of the President of Uzbekistan Sh.M. Mirziyoyev on organizing the activities of the MGIMO branch in Tashkent on February 11, 2019  translated the agreements into a practical plane. On September 1, 2019, MGIMO began implementing its programs in Tashkent. MGIMO-Tashkent, the first foreign branch of MGIMO, is 6 undergraduate and graduate programs that have no analogues in Uzbekistan, leading MGIMO professors, grants for training for the best applicants, preparation programs for admission, unique language training according to our own methods, a modern campus in the center Tashkent. The training is built on a modular basis (the duration of the courses is 2-3 weeks) with the included 'Moscow' modules: one semester - for graduate students and three semesters - for undergraduate students. This will allow students from Uzbekistan to become part of the MGIMOv family.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Internal Exam"
+    ],
+    "scolarship": "No scholarship",
+    "tuitionFee": 6100,
+    "establishedIn": "2019-09-01T09:00:00.000Z",
+    "images": ["mgimo-1.jpg", "mgimo-2.jpg", "mgimo-3.jpg"],
+    "imageCover": "mgimo-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.3248484504065, 69.32173362639317],
+      "address": "Mirzo Ulugbek Avenue, 47 Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Gubkin in Tashkent",
+    "universityShortName": "RGU",
+    "ratingsAverage": 4,
+    "courses": [
+      {
+        "courseName": "Department of drilling oil and gas wells",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of development of oil, gas and gas condensate fields",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Geological and Geophysical Exploration Technologies",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Design, Construction and Operation of Pipeline Transport Systems",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Oil and Gas Economics",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Mathematics and Informatics",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Physics, Electrical Engineering and Heat Engineering",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of General Chemistry and Chemistry of Oil and Gas",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of General Professional Disciplines",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Foreign Languages",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Social and Humanitarian Disciplines",
+        "description": "No description",
+        "duration": 4
+      },
+      {
+        "courseName": "Department of Physical Education and Sports",
+        "description": "No description",
+        "duration": 4
+      }
+    ],
+    "summary": "The branch of the Russian State University of Oil and Gas (National Research University) named after Ivan Mikhailovich Gubkin in Tashkent was organized in accordance with the Resolution of the President of the Republic of Uzbekistan I.A. Karimov dated January 12, 2007 for the further development and improvement of the training of highly qualified personnel with higher education for the oil and gas and petrochemical industry of the republic and the expansion of international cooperation in the field of higher education.",
+    "admission": ["Internal Exam"],
+    "scolarship": "No scholarship",
+    "tuitionFee": 2000,
+    "establishedIn": "2007-12-01T09:00:00.000Z",
+    "images": ["gubkin-1.jpg", "gubkin-2.jpg", "gubkin-3.jpg"],
+    "imageCover": "gubkin-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.35491654096301, 69.33124639721956],
+      "address": "Tomz, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Turin Polytechnic University in Tashkent",
+    "universityShortName": "TPU",
+    "ratingsAverage": 3.5,
+    "courses": [
+      {
+        "courseName": "Mechanical Engineering",
+        "description": "The Mechanical Engineering study program has historically always provided solid scientific and technical training, which allows graduates to actively contribute to the industrial and technological development of our society with a remarkable ability to adapt to different working contexts, also acting as a springboard for future managers with extensive technical and organizational professional skills.",
+        "duration": 4
+      },
+      {
+        "courseName": "Civil Engineering",
+        "description": "The degree program teaches how to design, implement, manage, survey, monitor and maintain buildings in the broadest sense: from civil and industrial buildings to major works, and infrastructure; it also completes the quali cation with expertise on security and civil protection. The overall structure of the Civil Engineering degree program is strongly rooted in tradition, thus maintaining the Civil Engineer’s professional  figure in keeping with its recognizable demand on the job market. At the same time, the detailed structure of the study program, the specific contents of the modules and the innovations introduced make the curriculum very cutting edge and innovative.",
+        "duration": 4
+      },
+      {
+        "courseName": "Information Technologies and Programming in Industry",
+        "description": "The degree course presents a single course of study that provides students with basic engineering notions and an in-depth knowledge of the main characteristics of information processing systems, both in hardware and software components. In particular, computer skills cover the fundamental principles of the architecture of computers and processing systems, problems relating to the design and integration of hardware and software systems, with in-depth knowledge of operating systems, programming languages, techniques and software engineering methods, principles and technologies for modeling, designing and managing databases. Analyzing, designing and maintaining IT systems requires a wide-ranging scientific culture on the main sectors of information engineering (IT, electronics, automation, telecommunications) accompanied by in-depth methodological and technological skills of the main specific sectors of computer science.",
+        "duration": 4
+      }
+    ],
+    "summary": "Turin Polytechnic University in Tashkent (TPUT) was established on April 27, 2009 in accordance with the Decree of the President of the Republic of Uzbekistan № PP 1106 dated 27.04.2009 and the Agreement between the Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan, JSC Uzavtosanoat and Turin Polytechnic University Politecnico di Torino , Italy dated January 10, 2009 as a higher education institution in accordance with the laws of the Republic of Uzbekistan for implementation of activities aimed at training highly-qualified specialists for the automotive, mechanical engineering and electrical industry, energy industry, companies and organizations of industrial and civil engineering and construction. \nPolitecnico di Torino, Italy created in 1859 and being one of the leading technical universities in Europe, is characterized by an active combination of the educational process with scientific and applied research. It includes 18 courses and 19 research centers and laboratories, which are the basic research centers of large automotive and other companies. The opening in Uzbekistan of a new institution of higher education on the basis of such a European university in accordance with generally recognized international requirements also fully met the goals and objectives of the National Training Program for the Republic of Uzbekistan.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Internal Exam"
+    ],
+    "scolarship": "50 places for 100% scholarship",
+    "tuitionFee": 2900,
+    "establishedIn": "2009-04-27T09:00:00.000Z",
+    "images": ["polito-1.jpg", "polito-2.jpg", "polito-3.jpg"],
+    "imageCover": "polito-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.35590363187966, 69.22180485724763],
+      "address": "Ring Road street, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Webster University in Tashkent",
+    "universityShortName": "WUT",
+    "ratingsAverage": 4,
+    "courses": [
+      {
+        "courseName": "Economics",
+        "description": "The BA in Economics helps students explore the factors that determine production, distribution, and consumption of resources.  Students gain an understanding of basic economics concepts, and how policy changes impact the economy. Expert faculty help students apply micro and macro economic concepts to real-world settings. The bachelor of arts (BA) in economics at Webster University provides students with a foundation in the discipline of economics. Students develop an analytical mindset alongside a strong economic awareness of the world. Students pursue one of three tracks, math, business or liberal arts, which in addition to core and specialized elective coursework, allows students to tailor their economics studies to suit their interests and strengths.",
+        "duration": 4
+      },
+      {
+        "courseName": "International Relations",
+        "description": "The international relations curriculum enables students to analyze the legal, historical, socioeconomic, and political factors that are key elements in this field of study. Webster students also examine the dynamics, structural characteristics, and humanitarian issues of the global community.",
+        "duration": 4
+      },
+      {
+        "courseName": "Media Studies",
+        "description": "Media studies majors and minors approach media from academic and practical standpoints, develop diverse professional portfolios, and hone skills integral to a variety of media careers. The media studies degree affords an excellent foundation for pursuing a variety of careers within any organization that uses and values communication.",
+        "duration": 4
+      },
+      {
+        "courseName": "Business Administration",
+        "description": "The major does not provide a specific specialization, but rather exposes the student to various business functions. This major is ideally suited to new or transfer upper-division business students or for students interested in concurrently pursuing another area of study offered by Webster University such as accounting, finance, or international business.",
+        "duration": 4
+      },
+      {
+        "courseName": "Management Information Systems",
+        "description": "Webster University's Bachelor of Science degree program in Management Information Systems will help you prepare to meet the demand for innovation and technological growth of the future. Our program integrates technology and business concepts that provides students with the knowledge and skills they will need to solve current and future IT related business challenges. The Bureau of Labor Statistics (BLS) recognizes computer information systems as one of the fastest growing career fields in the United States. Job growth through the decade ending in 2022 is expected to hold steady at 15 percent per year, which is more than double the national average rate of 7 percent for all jobs.",
+        "duration": 4
+      }
+    ],
+    "summary": "Webster University, a worldwide institution, ensures high quality learning experiences that transform students for global citizenship and individual excellence. Our vision is to be a premier U.S-based international university setting a distinct standard for global education. This vision is built on a foundation of excellence in teaching and enhanced by an international perspective that fosters dialogue, respect and understanding across boundaries and between peoples. The educational endeavors in support of this vision are meeting the needs and enriching a global mix of learners within an ever-increasing network of students desiring a U.S. education in multiple parts of the world. The institution is committed to offering these students a distinct personal experience and building the resources required to achieve this vision. The actions of the institution are shaped by our core values.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Interview"
+    ],
+    "scolarship": "No scholarship",
+    "tuitionFee": 3500,
+    "establishedIn": "2019-09-01T09:00:00.000Z",
+    "images": ["wut-1.jpg", "wut-2.jpg", "wut-3.jpg"],
+    "imageCover": "wut-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.32013213349395, 69.26146628221163],
+      "address": "13 Navoi street, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Westminster International University in Tashkent",
+    "universityShortName": "WIUT",
+    "ratingsAverage": 5,
+    "courses": [
+      {
+        "courseName": "Business Information Systems",
+        "description": "The BSc(Hons) Business Information Systems course has been designed to prepare professionals with a strong background in information systems management and a deep understanding of the business context and needs. The course aims to give students an education in the key areas of the discipline of business and information systems, providing an understanding of underpinning theories, tools and techniques. Along with developing key analytical abilities, the course is designed to enhance your team-working, problem-solving, communication skills and business awareness that are highly important in an intertwined global world. Throughout your course, you will acquire the transferable and cognitive skills necessary for lifelong personal and professional development enabling graduates to gain employment in a business environment or to proceed to further study.",
+        "duration": 3
+      },
+      {
+        "courseName": "Finance",
+        "description": "Aims of the course BSc (Honours) Finance course is a rigorous programme of study which will equip you with a strong financial foundation and key quantitative skills, as well as an understanding of the logic behind the use of specific finance techniques and financial decision-making at financial organisations and functions. You will learn to think analytically and be able to critically evaluate key issues in finance from a variety of perspectives. You will gain valuable insights into the socio-economic, legal and professional contexts within which finance operates. Along with developing key analytical abilities, the course is designed to enhance your team-working, problem-solving, communication skills and business awareness that are highly important in an intertwined global financial world. Throughout your course, you will acquire the transferable and cognitive skills necessary for lifelong personal and professional development enabling graduates to gain employment in a business environment or to proceed to further study in a related field.",
+        "duration": 3
+      },
+      {
+        "courseName": "Economics with Finance",
+        "description": "The BSc (Honours) Economics with Finance course is designed to give students an education in key areas of economics and finance. The course enables students to understand the interactions between the economy and financial systems, while providing theories, tools, and techniques which will enable them to pursue a career in economics, finance and related industries. The combination of economics (major) and finance (minor) provides an excellent platform from which WIUT graduates can be successful in competitive job markets. The BSc (Honours) Economics with Finance aims to create graduates who are able to conduct formal modelling of economic relationships, test hypotheses against data, and think critically about economic and financial problems and policy issues. The program offers core modules in addition to interdisciplinary optional modules structured to suit the interests and professional goals of students. The combination of core and optional modules will enable students to view issues in the real world from a variety of contrasting perspectives. Students will learn the economist’s analytical and quantitative methods. This will also provide an excellent foundation for a range of professional and academic careers.",
+        "duration": 3
+      },
+      {
+        "courseName": "Commercial Law",
+        "description": "The BA (Hons) Commercial Law equips students with a thorough knowledge and understanding of the fundamental doctrines and principles that underpin the legal systems and beyond. Law is an interesting and intellectually challenging discipline and the students need to be able to think about law in terms of its effect both on society generally and individuals within it. Increasingly, the transnational dimension of the legal study has become more important, across a wide range of legal areas, both private and public. Studying law on an undergraduate degree programme provides the opportunity to develop strong theoretical understanding of the subject and development of transferable practical skills. The BA (Hon) Commercial Law course at WIUT offers students the chance of a rewarding educational experience in itself that would enable graduates to be employed in a range of careers. It is also a Qualifying Uzbek Law Degree (QULD) and therefore serves as a pathway to a future legal career. WIUT graduates are working as in-house lawyers in national and multinational corporations; as legal associates and qualified advocates at law firms; and in many other private and public entities, including Government agencies.",
+        "duration": 3
+      },
+      {
+        "courseName": "Business Management",
+        "description": "The degree in Business Management is designed to meet the challenges of a dynamic, technology-driven business world. The course will prepare students for management and entrepreneurship roles in different types of organizations and provide a solid foundation for understanding how businesses operate. It also aims to develop the transferrable skills such as leadership skills, business perceptiveness and ability to work collaboratively that will help graduates to pursue career in every section of the economy – from retailing to manufacturing, government to “green” business and as well as establishing their own businesses.\nThe mainstream BA (Hons) Business Management pathway is structured around the key areas of business, namely Marketing, Human Resource Management, Operations Management and Finance, providing students an understanding of underpinning theories, tools and techniques, fitting them for gainful employment in diverse business environments or to proceed to further study. Students on this mainstream pathway can select Project Management, Strategic Talent Management, Supply Chain Management and Logistics, Negotiations and Influence, Leading across Boundaries, Sales Management optional modules. Areas of employment opportunity might include HR specialist, Supply Chain and Logistics specialist, Project Leader/Manager and other managerial roles.",
+        "duration": 3
+      }
+    ],
+    "summary": "Westminster International University in Tashkent (WIUT) is the first international university located in the heart of Central Asia to offer a Western-style education with UK qualifications. WIUT offers a wide range of programs, academic and research activities, as well as social events. Independent learning is an essential part of the UK education system, and WIUT is no exception. WIUT students can often be found in the Learning Resource Centre (LRC), computer rooms and innovation labs, working on projects and discussing course content with their peers. Other times, students may be found making the most of the University’s exceptional sports facilities or engaging in the many social and cultural events organized by the Students’ Union. ",
+    "admission": [
+      "English language proficiency (iELTS, Toefl)",
+      "Internal Exam"
+    ],
+    "scolarship": "30 places for 100% scholarship",
+    "tuitionFee": 3000,
+    "establishedIn": "2002-01-14T09:00:00.000Z",
+    "images": ["wiut-1.jpg", "wiut-2.jpg", "wiut-3.jpg"],
+    "imageCover": "wiut-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.30715698422705, 69.28342221290143],
+      "address": "12 Istiqbol street, Tashkent"
+    }
+  },
+  {
+    "universityFullName": "Yeoju Technical Institute in Tashkent",
+    "universityShortName": "YTIT",
+    "ratingsAverage": 3,
+    "courses": [
+      {
+        "courseName": "Architecture and Urban Design",
+        "description": "Architectural and Urban designing direction is the highest level of education in the field of urban planning and architecture, its theoretical and practical, including socio-economic, engineering, technical and artistic-compositional aspect.",
+        "duration": 4
+      },
+      {
+        "courseName": "Renewable Energy",
+        "description": "The renewable energy direction is the latest and future trend in education in today’s world. The Republic of Uzbekistan is also a land of natural resources, such as solar, water, wind, gas and oil, and is a convenient region for the comprehensive development of renewable energy.",
+        "duration": 4
+      },
+      {
+        "courseName": "Civil Engineering",
+        "description": "The direction of Civil Engineering has always been one of the leading professions. This area requires deep, specialized knowledge in the field of construction. Today in our country, construction is actively developing. The modern world dictates new rules for the use of free space for construction, so the training program is characterized by large-scale diversification of knowledge and skills. This engineering and at the same time creative profession requires a flexible non-standard approach, but at the same time, well-thought-out and informed decisions for the construction of both residential and non-residential facilities. High-tech architectural forms, innovative materials, advanced technologies and will not leave you indifferent, and the knowledge gained in Technical institute Yeoju in Tashkent will ensure dynamic career growth, the horizon of which now depends only on you.",
+        "duration": 4
+      },
+      {
+        "courseName": "Information System Engineering",
+        "description": "Information systems engineering is a multidisciplinary field that combines disciplines such as mathematics, business and computer science. Information systems engineers design, develop, test and maintain systems used primarily for data. Information systems can be in different forms, including geographic information systems, meteorological image processing or communication networks. Information systems engineers are employed in public and private sectors, including defense agencies, medical industries or financial corporations.",
+        "duration": 4
+      },
+      {
+        "courseName": "Lift Engineering",
+        "description": "Almost all newly built buildings require elevator installation. However, modern elevators are very complex and diverse. There are freight elevators, high speed elevators, specialized elevators in hospital complexes and more. They require a lot of specialists to maintain and service. The equipment park is large; the field of activity is wide. Demand for the profession is high in the medium term.",
+        "duration": 4
+      },
+      {
+        "courseName": "Mechanical engineering",
+        "description": "Mechanical engineering, one of the most challenging and functional engineering disciplines, is the study of moving objects and systems. Thus, almost every aspect of modern life, including the human body, a highly complex machine, is influenced by the field of mechanical engineering.",
+        "duration": 4
+      },
+      {
+        "courseName": "Electrical engineering",
+        "description": "Electrical engineering is an engineering field that explores the application of electrical phenomena through electromagnetic field and circuit theory. Particular objects of interest to this sector are electrical power systems, electrical machines and drives, electronic energy converters, electrical systems for transport, electrical and electronic measurements, circuit theory and electromagnetic compatibility. The Electrical Engineering program covers all subjects required to teach students electrical engineering students.",
+        "duration": 4
+      },
+      {
+        "courseName": "Mechatronics",
+        "description": "Mechatronics systems engineering encompasses the integration of mechanical, electronic and intelligent control subsystems to implement a complete system, which can be a product, a machine or a process. The interdisciplinary nature of mechatronics uses design principles, processes, models, toolkits and philosophy unique to mechatronics engineers to design and develop simpler, more economical, and reliable systems.",
+        "duration": 4
+      },
+      {
+        "courseName": "Business Management",
+        "description": "The direction of “Business management” is one of the most important factors for the economic development of any country. The business environment, the effective organization of business activities and the wide involvement of foreign investment, and the fact that the World Bank’s Doing Business rankings are at the forefront of reforms is a key part of the ongoing reforms in the business sector.",
+        "duration": 4
+      },
+      {
+        "courseName": "International Economic Relations",
+        "description": "International economic relations (IER) direction is one of the main educational directions of YTIT which focuses on the global economy, international relations. Interdisciplinary approach of IER direction reflects an awareness of real-life interdependence. Economists enhance their knowledge of international relations, culture, and people’s value systems. Future specialists benefit from an introduction to economics, principles of management, marketing, consumer behavior, finance, accounting and other economic related subjects.",
+        "duration": 4
+      },
+      {
+        "courseName": "Inernational Marketing",
+        "description": "“International marketing” is one of the most important factors of economic growth and development of the state, moreover, preparing the young for the effective use of marketing services and economic growth of the country, for the gradual promotion and entry into world markets of goods and services of our domestic goods and services is considered to be our main task. Yeoju Technical Institute in Tashkent is interested not only in providing students with theoretical and practical knowledge, but also in applying this knowledge to future entrepreneurial activities. Therefore, practical skills are meant to be the main base of education.",
+        "duration": 4
+      },
+      {
+        "courseName": "Tourism",
+        "description": "The “Tourism” is one of the most important factors for the state’s economic development, and the preparation of youth for effective use of tourism services and economic growth of the country to gradually enter the world markets of goods and services.",
+        "duration": 4
+      },
+      {
+        "courseName": "Banking",
+        "description": "The major of “Banking” has a practical orientation, it provides professional knowledge in the field of organizing the activities of commercial banks, teaches future bankers and all those who are interested in relationships with banks and the basic rules of banking. The course of “Banking” sets out the basic terms, concepts, principles and methods of banking.",
+        "duration": 4
+      },
+      {
+        "courseName": "Accounting",
+        "description": "Accounting plays a vital role in running a business because it helps you track income and expenditures, ensure statutory compliance, and provide investors, management, and government with quantitative financial information which can be used in making business decisions. Moreover it is one of the high-demand subjects in higher education.",
+        "duration": 4
+      },
+      {
+        "courseName": "Finance",
+        "description": "It is clear that the foundations of a market economy are commodity-money relations, it can be said that “Finance” is important in macroeconomics with the formation and management of monetary relations, the promotion of efficiency, rational use of material, labor and financial resources. In the field of education “Finance” has considerable importance in a country. Moreover it is one of the high-demand subjects in higher education.",
+        "duration": 4
+      },
+      {
+        "courseName": "Korean Philology",
+        "description": "Our department was established as a regular organization this year with the aim of producing “Korean Studies Regional Experts”, who are excellent in Korean and Korean literature. Currently, we have 278 students and the most instructors and professors are native Koreans who has been studied not only Korean literature but also a broad knowledge of Korean studies, that is, Korean culture and the Korean political economy.",
+        "duration": 4
+      },
+      {
+        "courseName": "Primary Education",
+        "description": "The direction of primary education is the preparation of the future primary school teacher, training of competitive specialists in the community, and the state and the government of the Republic of Uzbekistan. It is an area of preparation for the 1-4th grade education in private schools that focuses on the professional development of future primary school teachers, their role in society, the use of new innovative technologies and information technology. and foreign languages. The program provides theoretical and practical assistance in acquiring the knowledge, skills and abilities needed for elementary school teachers in accordance with the requirements of the DTS. Future elementary teachers are actively involved in the courses on pedagogy theory, teaching methods and psychological concepts, cognitive processes, and elementary education theory. They also gain a basic knowledge of the courses. Under the program, students are able to learn foreign and Korean languages.",
+        "duration": 4
+      },
+      {
+        "courseName": "Pre-school education",
+        "description": "Pre-school education is a program for future professional development of educators, which is the basis for comprehensive development of children, systematic organization of family kinder gardens, development of state and non-state kindergartens. plans, training, and evaluation are in-depth training. The program provides a solid foundation for the theory and history of pre-school education, theoretical and practical and interactive teaching methods for future coaches in pre-school education, and a thorough understanding of science. This course is a holistic educational process involving a preschool child, with a focus on raising children from 3 to 6 years of age. Future educators are adapted to teach different groups of children with inclusive, cognitive, linguistic and social and gifted development skills that should be taught by preschoolers. Teaching the theory and practice of preschool education in higher education using traditional and innovative research methods. The course aims to apply theoretical knowledge gained in practice. The essence of the course is to ensure that the up-to-date changes in the education system are impacting children and training mature, competitive professionals to help them develop in the right direction.",
+        "duration": 4
+      },
+      {
+        "courseName": "English Education",
+        "description": "The course Bachelor of Education is a double degree programme with the aim to prepare teachers of English language as well as educators in one of the selected content areas (science or arts).",
+        "duration": 4
+      },
+      {
+        "courseName": "Fashion Design",
+        "description": "The main subjects allow students of “Fashion Design” to master not only deep theoretical knowledge, but also receive and develop practical skills in the chosen profession. Having mastered a wide range of tools in subjects that exceeds the standard set of disciplines in most universities, the students of our institute from the first course get a real opportunity to do the personal shows at professional fashion weeks, participate in national and international competitions, collaborate with fashion brands (patented logos), and have internships in film and theater productions.",
+        "duration": 4
+      },
+      {
+        "courseName": "Painting",
+        "description": "Painting is a type of fine art that reproduces objects and phenomena of the real world with the help of paints. An artist painter is a creative person who knows how to transfer their thoughts, experiences and impressions onto the canvas with the help of paints and pencils. He is a master of fine and other arts.",
+        "duration": 4
+      },
+      {
+        "courseName": "Beauty Aesthetics",
+        "description": "Beauty aesthetic is one of the youngest, but the same time rapidly developing branches of Aesthetic Cosmetology. It concentrated on complex procedures of rejuvenation and preservation of youth, beauty and health.",
+        "duration": 4
+      },
+      {
+        "courseName": "General Medicine",
+        "description": "General medicine is a direction of education in the field of health care, which covers a set of tools, methods, techniques of human activity aimed at developing the medical field, determining prospects, professional skills, and the ability to act. General medicine is one of the most prestigious areas of medicine, and specialists of this occupation have been trained for over 100 years in our country.",
+        "duration": 4
+      }
+    ],
+    "summary": "Within the Korean-Uzbek business forum dedicated to the state visit of the President of the Republic of Uzbekistan, Shavkat Mirziyoyev, to the Repubic of Korea on the 22-24th November 2017, a Memorandm on the creation of Yeoju Technical Institute in Tashkent was signed between Korean and Uzbek partners. Based on this Memorandum, the Yeoju Technical Institute in Tashkent received the status of an official institution providing educational services in the field of higher education in the Republic of Uzbekistan on the basis of a state license granted by the State Inspectorate for Quality Supervision of Education under the Cabinet of Ministers of the Republic of Uzbekistan on July 24, 2018. \nThe main task of Yeoju Technical Institute in Tashkent is the preparation of highly qualified personnel and specialists with the modern professional skills demanded in the job market. In this regard, curricula are formed taking into account modern requirements and the tendencies of the development of the economy as well as those agreed upon with basic and potential employers. \nThe institute has modern facilities and along a constantly-updated information-resource database. Overall, all conditions for students’ obtaining quality education and having leisure time in the institute are in place. International professors from the UK, the USA, Belgium, South Korea, Saudi Arabia, etc. are involved in the educational process and the national team of the teaching staff is mostly formed from the graduates of leading overseas institutes of the UK, the USA, Italy, Germany, Japan, South Korea, etc. \nThe students have an opportunity to participate in exchange programmes as well as in programmes on receiving joint or double degrees. This way the students may participate in exchange programmes on the 2+2 model and continue their education at Hanyang University, Chungbuk National University, Hankyong University, Chosun University, Busan University of Foreign studies, Jeonju University, Chungcheong university (Republic of Korea), United Business Institutes (Belgium) and Yeoju Institute of Technology. Thus, Yeoju Technical Institute in Tashkent offers great opportunities for obtaining quality education in an international and friendly atmosphere.",
+    "admission": [
+      "English language proficiency (iELTS, Toefl, CEFR)",
+      "Internal Exam"
+    ],
+    "scolarship": "Varies every year",
+    "tuitionFee": 2000,
+    "establishedIn": "2017-11-24T09:00:00.000Z",
+    "images": ["ytit-1.jpg", "ytit-2.jpg", "ytit-3.jpg"],
+    "imageCover": "ytit-backimg.jpg",
+    "location": {
+      "type": "Point",
+      "coordinates": [41.2609691219437, 69.22095664729802],
+      "address": "156 Usman Nasyr Str, Tashkent"
+    }
+  }
+]

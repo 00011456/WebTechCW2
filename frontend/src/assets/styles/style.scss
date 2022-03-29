@@ -1,0 +1,294 @@
+/* Custom Font */
+//! TASK: OPTIMIZE FONTS
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap");
+@import "./variables.scss";
+@import "./mixins.scss";
+@import "./utilities.scss";
+@import "./animations.scss";
+
+/* Universal Styles  */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // 10px
+  scroll-behavior: smooth;
+
+  @include respond(tab-land) {
+    font-size: 56.25%; //1 rem = 9px, 9/16 = 56.25%
+  }
+
+  @include respond(big-desktop) {
+    font-size: 75%; //1 rem = 12px, 12/16 = 75%
+  }
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  overflow-x: hidden;
+  background-color: $white-1;
+}
+
+.container {
+  max-width: 130rem;
+  margin: 0 auto;
+  overflow-x: hidden;
+
+  @include respond(tab-port) {
+    margin: 0 3rem;
+  }
+  @include respond(phone) {
+    margin: 0 2rem;
+  }
+}
+
+.link {
+  text-decoration: none;
+  transition: all 0.3s;
+  display: block;
+
+  &:hover {
+    transform: translateY(-0.2rem) scale(1.05);
+    filter: brightness(80%);
+  }
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.input {
+  background: $white-1;
+  border: 0.1rem solid $white-2;
+  box-shadow: 0px 0.1rem 0.2rem rgba(55, 65, 81, 0.08);
+  border-radius: 0.4rem;
+  padding: 0.8rem;
+  width: 30rem;
+  display: block;
+  outline: none;
+  transition: all 0.3s;
+  &:hover {
+    box-shadow: 0px 0.1rem 1rem rgba($dark-blue-1, 0.5);
+  }
+}
+
+// Selection
+::selection {
+  background-color: $dark-blue-1;
+  color: $white;
+}
+
+// User Auth
+.auth {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .container {
+    display: flex;
+    align-items: center;
+
+    @include respond(mini-phone) {
+      flex-direction: column;
+    }
+  }
+
+  &__error {
+    color: $red;
+    font-weight: 600;
+    font-size: 1rem;
+    padding-top: 0.5rem;
+    font-family: "Montserrat";
+  }
+
+  &__title {
+    font-weight: 800;
+    font-size: 3.2rem;
+    color: $dark-blue-1;
+    margin: 5rem 0;
+    text-align: center;
+    text-transform: uppercase;
+
+    @include respond(tab-mini) {
+      font-size: 2.5rem;
+    }
+    @include respond(big-phone) {
+      margin: 3rem;
+    }
+  }
+  &__subtitle {
+    font-weight: 800;
+    font-size: 2.5rem;
+    color: $dark-blue-1;
+    margin: 2.5rem 0;
+    text-align: center;
+    text-transform: uppercase;
+
+    @include respond(tab-mini) {
+      font-size: 2rem;
+    }
+    @include respond(big-phone) {
+      margin: 3rem;
+    }
+  }
+
+  &__form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  &__cancel {
+    cursor: pointer;
+    color: $dark-blue-1;
+    display: block;
+    transition: all 0.3s;
+
+    &:hover {
+      transform: translateY(-0.5rem);
+    }
+
+    svg {
+      width: 4rem;
+      height: 4rem;
+    }
+  }
+
+  &__right {
+    width: 2rem;
+    height: 2rem;
+    margin-left: 0.8rem;
+  }
+
+  &__photo {
+    width: 15rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0.9rem 1.9rem;
+    margin-bottom: 4rem;
+    color: $dark-blue-2;
+    background: $light-blue-2;
+    box-shadow: 0 0 3px $dark-blue-1;
+    border-radius: 5px;
+    margin-top: 2.5rem;
+
+    svg:not(:last-child) {
+      margin-right: 2rem;
+    }
+
+    svg {
+      width: 3rem;
+      height: 3rem;
+    }
+  }
+}
+.input-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 2.5rem;
+
+  label {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 0.4rem;
+    color: $grey;
+  }
+
+  input,
+  input::placeholder {
+    font-weight: 500;
+    font-size: 1.4rem;
+    color: $grey;
+  }
+}
+
+// Popup style
+
+.back {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.479);
+}
+.popup {
+  background-color: $dark-blue-1;
+  color: $white;
+  padding: 2rem 0rem;
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+
+  &__action {
+    display: flex;
+  }
+
+  p {
+    font-size: 1.6rem;
+    width: 80%;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-weight: 500;
+  }
+
+  a {
+    background: #f7f7f7;
+    border-radius: 4px;
+    border: none;
+    display: flex;
+    align-items: center;
+    padding: 0.4rem 0.6rem;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: $dark-blue-1;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1rem;
+
+    &:hover {
+      transform: translateY(-0.2rem) scale(1.05);
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    &:active {
+      transform: translateY(0rem) scale(1);
+      box-shadow: 0;
+    }
+
+    svg {
+      margin: 0.5rem;
+      width: 2rem;
+      height: 2rem;
+    }
+
+    &:not(:last-child) {
+      margin-right: 2rem;
+    }
+  }
+}
