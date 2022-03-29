@@ -23,7 +23,7 @@ If you wan to play around, follow some steps:
 
 Also, i prepared special instructions for front and back sides on their folders.
 
-# Project Structure
+## Project Structure
 
 This application follows MVC structure and REST API philosophy. Folders are properly divided according stardards and best practises.
 
