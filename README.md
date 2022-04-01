@@ -40,3 +40,7 @@ Figma
 Postman
 Github Organization
 Notion
+
+## To get admin access use:
+mansurisakov.dev@gmail.com
+12345678
